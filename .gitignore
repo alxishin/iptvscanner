@@ -1,0 +1,7 @@
+.idea
+main
+#*.m3u
+./docs/
+./docs
+docs/
+./build/*
